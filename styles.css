@@ -1,0 +1,23 @@
+.introductionContainer {
+    background-color: #B4CFB0;
+}
+
+.introductionText {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+.socialsContainer {
+    background-color: #789395;
+    padding: 0.8125rem;
+    color: white;
+}
+
+.bg-body-tertiary {
+    background-color: #94B49F !important;
+}
+
+.navbar {
+    --bs-emphasis-color-rgb: 255,255,255;
+}
