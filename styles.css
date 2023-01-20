@@ -22,3 +22,9 @@
     font-weight: 500;
     color: black;
   }
+
+
+  .imageItem {
+    height: 500px;
+    width: 400px;
+  }
