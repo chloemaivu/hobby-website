@@ -53,3 +53,15 @@
 .socialsContainer {
     padding-top: 300px;
 }
+
+.btn-outline-success {
+    --bs-btn-color: white !important; 
+    --bs-btn-border-color: white !important; 
+    --bs-btn-hover-border-color: #FCBCB0 !important;
+    --bs-btn-hover-color: #FCBCB0 !important;
+    --bs-btn-active-border-color: white;
+}
+
+.searchContainer {
+    margin-left: auto;
+}
