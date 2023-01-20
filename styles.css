@@ -5,7 +5,6 @@
     font-weight: 500;
     background-color: #768AA5;
     color: white;
-    /* box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px; */
 }
 
 .bg-body-tertiary {
@@ -59,7 +58,8 @@
     --bs-btn-border-color: white !important; 
     --bs-btn-hover-border-color: #FCBCB0 !important;
     --bs-btn-hover-color: #FCBCB0 !important;
-    --bs-btn-active-border-color: white;
+    --bs-btn-active-border-color: #222 !important;
+    --bs-btn-active-color: #222 !important;
 }
 
 .searchContainer {
